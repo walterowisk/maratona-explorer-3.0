@@ -5,6 +5,7 @@
 
 body {
   background-color: #ffedd5;
+  font-family: 'Roboto', sans-serif;
 }
 
 ul {
@@ -52,4 +53,8 @@ li .details {
 
 .details h3 {
     margin-bottom: 8px;
+}
+
+h1, h2, h3, .price {
+  font-family: 'Roboto Serif', serif;
 }
